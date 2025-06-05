@@ -3,7 +3,7 @@ theme: default
 _class: [invert, lead]
 class: []
 color: #000000
-#backgroundColor: #aaaaaa
+backgroundColor: #aaaaaa
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
 marp: true
 #header: 'Header content'

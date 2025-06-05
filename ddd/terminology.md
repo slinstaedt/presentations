@@ -62,8 +62,6 @@ Some fundamentals
 
 ---
 
-https://fabiofumarola.github.io/nosql/readingMaterial/Evans03.pdf
-
 # Consistency, invariants and validation... oh my
 
 > An invariant is a business rule that must always be consistent.
